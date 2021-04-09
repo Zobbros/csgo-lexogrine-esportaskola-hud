@@ -1,13 +1,13 @@
 .teambox {
     position: fixed;
-    bottom: 215px;
+    bottom: 116px;
     display: flex;
     flex-direction: column;
     opacity: 1;
     transition: opacity 0.75s;
     &.CT {
         .player .hp_bar {
-            background: radial-gradient(circle, rgba(12,87,50,1) 0%, rgba(21,158,92,1) 35%, rgba(30,237,137,1) 100%);
+            background: linear-gradient(90deg, rgba(12,87,50,1) 0%, rgba(21,158,92,1) 35%, rgba(30,237,137,1) 100%);
         }
     }
     &.T {
