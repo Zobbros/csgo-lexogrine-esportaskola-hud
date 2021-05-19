@@ -137,3 +137,5 @@ This killfeed detects who killed whom, if there was an assist (flash assist as w
 
 ## Radar
 Radar is custom React-based component, made by Hubert Walczak, and is easily editable from css.
+
+V1
